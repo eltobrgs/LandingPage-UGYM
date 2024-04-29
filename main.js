@@ -46,21 +46,21 @@ const testimonialsList = [
   {
     review:
       "Seu aplicativo oferece uma série de recursos úteis, como monitoramento de frequência, motivação diária e ideias de treinos personalizados, que certamente ajudariam a manter meus clientes comprometidos com seus objetivos de condicionamento físico. Além disso, a funcionalidade de matrícula de alunos e o controle de frequência me ajudariam a gerenciar melhor minha academia e a oferecer um serviço mais eficiente.!",
-    image: "images/testimonial1.png",
+    image: "images/waldeane.png",
     name: "Waldehany bezerra",
     designation: "Dona de academia, Energy Fitness",
   },
   {
     review:
       " Acho uma opção bastante viável para facilitar no gerenciamento da organização da própria academia. Tudo seria organizado e evitaria bastantes incidentes; como treinos indevidos e afins, associado ao fato de que todos os alunos teriam acesso aos protocolos e findaria por eliminar a dependência do aluno em relação ao personal , no quesito de “ficar no pé” do instrutor da academia para prescrição de exercícios.!",
-    image: "images/testimonial2.png",
+    image: "images/pedro.png",
     name: "Pedro Afonso",
     designation: "Bodybuilder e Personal treiner, Academia Ps-fit e Fisioform",
   },
   {
     review:
       "A proposta de um sistema de pontos parece divertida e poderia realmente tornar meus treinos mais envolventes. Além disso, ter acesso a sugestões de treinos personalizados e um jeito fácil de monitorar minha frequência na academia seria muito conveniente. No geral, acho que seu aplicativo tem potencial para me ajudar a manter meu compromisso com a academia e até mesmo a alcançar novos objetivos fitness. Com certeza eu experimentaria usar!.",
-    image: "images/testimonial3.png",
+    image: "images/felipe.png",
     name: "Felipe Leal",
     designation: "Usuario de academia e investidor do ramo de tecnologia",
   },
