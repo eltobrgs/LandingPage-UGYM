@@ -101,6 +101,10 @@ header .left p {
   display: flex;
   gap: 24px;
 }
+.content .buttons{
+  justify-content: center;
+  align-items: center;
+}
 
 .download-btn {
   background: #000;
@@ -287,6 +291,54 @@ section h2 {
 
 #testimonials .testimonial-card.active {
   opacity: 1;
+}
+
+/* contact*/
+section.formulario {
+  padding: 80px 4%;
+}
+
+form {
+  max-width: 500px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 40px;
+}
+
+form input,
+form textarea {
+  width: 100%;
+  background-color: #242424;
+  border: 0;
+  outline: 0;
+  padding: 20px 15px;
+  border-radius: 15px;
+  color: #fff;
+  font-size: 18px;
+}
+
+form textarea {
+  resize: none;
+  max-height: 200px;
+}
+
+form button{
+  padding: 15px;
+  cursor: pointer;
+  font-size: 16px;
+  background: transparent;
+  border: 2px solid #242424;
+  color: #242424;
+  transition: all 1s;
+  margin-bottom: 20px;
+}
+form button:hover{
+  background: #861a1a;
+  color: #101026;
+  border-radius: 16px;
 }
 
 
@@ -478,52 +530,7 @@ nav .menu-icon,
     right: -30px;
   }
 
-  section.formulario {
-    padding: 80px 4%;
-}
-
-form {
-    max-width: 500px;
-    margin: 0 auto;
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    gap: 10px;
-    margin-top: 40px;
-}
-
-form input,
-form textarea {
-    width: 100%;
-    background-color: #242424;
-    border: 0;
-    outline: 0;
-    padding: 20px 15px;
-    border-radius: 15px;
-    color: #fff;
-    font-size: 18px;
-}
-
-form textarea {
-    resize: none;
-    max-height: 200px;
-}
-
-form button{
-    padding: 15px;
-    cursor: pointer;
-    font-size: 16px;
-    background: transparent;
-    border: 2px solid #242424;
-    color: #242424;
-    transition: all 1s;
-    margin-bottom: 20px;
-}
-form button:hover{
-    background: #861a1a;
-    color: #101026;
-    border-radius: 16px;
-}
+ 
 
   /* Footer */
 
