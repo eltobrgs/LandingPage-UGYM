@@ -311,7 +311,7 @@ form {
 form input,
 form textarea {
   width: 100%;
-  background-color: #242424;
+  background-color: #353535;
   border: 0;
   outline: 0;
   padding: 20px 15px;
@@ -330,7 +330,7 @@ form button{
   cursor: pointer;
   font-size: 16px;
   background: transparent;
-  border: 2px solid #242424;
+  border: 2px solid #353535;
   color: #242424;
   transition: all 1s;
   margin-bottom: 20px;
